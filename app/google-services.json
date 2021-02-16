@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "489409125373",
+    "project_id": "online-payment-5f11d",
+    "storage_bucket": "online-payment-5f11d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489409125373:android:25ab9fafc9e488c8dbd794",
+        "android_client_info": {
+          "package_name": "com.example.cruddatebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489409125373-qm6rocj2dqtttm387qshi8nekgsp7tl7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjJZV7CYwHTxohJmXCJqYIzgor_SbkhIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489409125373-qm6rocj2dqtttm387qshi8nekgsp7tl7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489409125373:android:6410c6f8357076eddbd794",
+        "android_client_info": {
+          "package_name": "com.example.crudwithdatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489409125373-qm6rocj2dqtttm387qshi8nekgsp7tl7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjJZV7CYwHTxohJmXCJqYIzgor_SbkhIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489409125373-qm6rocj2dqtttm387qshi8nekgsp7tl7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

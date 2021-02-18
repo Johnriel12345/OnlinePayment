@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">cruddatebase</string>
+
+    <string-array name="OvertheCounter">
+
+        <item>Seven Eleven</item>
+        <item>Mini Stop</item>
+        <item>Pure Gold</item>
+        <item>Alfamart</item>
+
+    </string-array>
+
+    <string-array name="description">
+
+        <item>Seven Eleven</item>
+        <item>Mini Stop</item>
+        <item>Pure Gold</item>
+        <item>Alfamart</item>
+
+    </string-array>
+
+
 </resources>

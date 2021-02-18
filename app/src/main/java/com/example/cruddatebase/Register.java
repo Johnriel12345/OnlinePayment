@@ -66,7 +66,7 @@ public class Register extends AppCompatActivity {
         if(valUsername.isEmpty()){
             textUsername.setError("Username is required!");
             textUsername.requestFocus();
-            return;
+          return;
         }
 
         if(valEmail.isEmpty()){
